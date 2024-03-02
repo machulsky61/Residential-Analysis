@@ -1,0 +1,14 @@
+*
+!*.*
+!*/
+build
+coverage
+Testing
+lib
+CMakeFiles
+.idea
+bin
+*.cmake
+*.csv
+*.png
+CMakeCache.txt
