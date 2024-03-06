@@ -27,7 +27,6 @@ The project is organized into several files and folders, each serving a specific
 - `ejercicios.cpp`: Implementations.
 - `ejercicios.h`: Headers.
 - `auxiliares.cpp` and `auxiliares.h`: Auxiliary functions.
-- `lib`: Contains everything necessary to run Google Tests.
 - `CMakeLists.txt`: File necessary for compiling and running the project in CLion.
 
 ## Database
