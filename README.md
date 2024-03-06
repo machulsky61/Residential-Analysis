@@ -7,6 +7,7 @@ This project focuses on the exploration and analysis of data from the Permanent 
 - [Introduction](#introduction)
 - [Repository Structure](#repository-structure)
 - [Database](#database)
+- [Classmates](#classmates)
 - [License](#license)
 
 ## Introduction
