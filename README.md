@@ -21,8 +21,6 @@ The households selected for the survey represent strategically assigned samples 
 The collected information is organized into two main tables: the household table and the person table. For more details on the statement and resolution, please refer to the `.pdf` file located in the corresponding folder.
 
 ## Repository Structure
-The project is organized into several files and folders, each serving a specific purpose:
-
 - `/pdfs`: Statement and Resolution
 - `/datos`: Data used in the tests, as well as real data corresponding to the years 2016 and 2017 from the Permanent Household Survey in CABA (Ciudad Autónoma de Buenos Aires).
 -  `/test`: Test suites.
