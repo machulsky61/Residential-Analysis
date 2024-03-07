@@ -1,7 +1,9 @@
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 # Argentine Residential Analysis
 
 ## Overview
 This project focuses on the exploration and analysis of data from the Permanent Household Survey, collected by the National Institute of Statistics and Census (INDEC) of Argentina. This work is carried out as part of the Practical Assignments for Specification and Implementation within the course Algorithms and Data Structures I, where we will use a specification language based on first-order logic to precisely define the problems that we will subsequently implement. Additionally, we aim to achieve a 100% line coverage.
+![INDEC](https://upload.wikimedia.org/wikipedia/commons/9/9f/Logo_Indec_%281%29.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
